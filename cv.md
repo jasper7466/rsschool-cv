@@ -20,7 +20,7 @@
 > Your full name
 
 <h1 align="center">Jasper7466</h1>
-<h4 align="center">Frontend developer</h1>
+<h4 align="center">Frontend developer</h4>
 
 ## Contact me
 
