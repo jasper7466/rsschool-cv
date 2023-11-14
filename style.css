@@ -1,0 +1,12 @@
+body {
+  padding: 5%;
+}
+
+.header--primary {
+  text-align: center;
+  color: brown;
+}
+
+.header--secondary {
+  color: chocolate;
+}
